@@ -4,14 +4,23 @@ Simple Raspberry Pi 3D Scanner
 ## Hardware
 
 3D Printed Turntable Parts -https://www.thingiverse.com/thing:4167615
+
 Raspberry Pi
+
 Pi Camera
+
 Flashlight
+
 Print-in-Place platform jack - https://www.thingiverse.com/thing:925556
+
 28byj-48 Stepper Motor
 
 ## Setup hardware
-Coming soon
+Wiring diagram
+
+28byj-48 <-> Raspberry Pi
+
+![28byj-48 <-> Raspberry Pi wiring diagram](https://i.imgur.com/yFS9LAW.jpg)
 
 ## Install Requirements
 ```
