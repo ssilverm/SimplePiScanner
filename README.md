@@ -13,12 +13,12 @@ Flashlight
 
 Print-in-Place platform jack - https://www.thingiverse.com/thing:925556
 
-28byj-48 Stepper Motor
+28byj-48 Stepper Motor with ULN2003 breakout board
 
 ## Setup hardware
 Wiring diagram
 
-28byj-48 <-> Raspberry Pi
+28byj-48 <-> ULN2003 <-> Raspberry Pi
 
 ![28byj-48 <-> Raspberry Pi wiring diagram](https://i.imgur.com/yFS9LAW.jpg)
 
