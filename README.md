@@ -1,6 +1,14 @@
 # SimplePiScanner
 Simple Raspberry Pi 3D Scanner
 
+## Hardware
+
+3D Printed Turntable Parts -https://www.thingiverse.com/thing:4167615
+Raspberry Pi
+Pi Camera
+Flashlight
+Print-in-Place platform jack - https://www.thingiverse.com/thing:925556
+
 ## Setup hardware
 Coming soon
 
@@ -26,3 +34,9 @@ Copy the jupyter notebook from this repo to Google Colab (https://colab.research
 Change the input and output folders to match your Drive folder.
 
 Press the play button on Step 1 to authorize Drive access, then press play on Step 2 and wait.  After a while you should have 3 files in your Output file.
+
+# Inspiration
+
+## AA-Scan
+I wanted to convert AA-Scan into something that could be solely run on the Pi.
+https://www.thingiverse.com/thing:4167615
