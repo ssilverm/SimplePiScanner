@@ -8,6 +8,7 @@ Raspberry Pi
 Pi Camera
 Flashlight
 Print-in-Place platform jack - https://www.thingiverse.com/thing:925556
+28byj-48 Stepper Motor
 
 ## Setup hardware
 Coming soon
